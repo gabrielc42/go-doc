@@ -4,3 +4,11 @@ Content-Type: application/json"
 {
   "id": "4","title": "The Modern Sound of Betty Carter","artist": "Betty Carter","price": 49.99
 }
+
+###
+
+GET http://localhost:8080/albums
+
+###
+
+GET http://localhost:8080/albums/2
