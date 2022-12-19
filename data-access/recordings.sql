@@ -1,6 +1,8 @@
 drop database if exists recordings;
 create database recordings;
 
+use recordings;
+
 drop table if exists album;
 create table album (
 	id int primary key auto_increment,
