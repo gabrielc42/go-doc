@@ -6,4 +6,4 @@ includes:
 
 also:
 
-(finalizers)[https://medium.com/a-journey-with-go/go-finalizers-786df8e17687]
+[finalizers](https://medium.com/a-journey-with-go/go-finalizers-786df8e17687)
